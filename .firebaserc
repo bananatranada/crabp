@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "crabp-stag-l2k3h",
+    "production": "crabp-prod-lk23j"
+  }
+}
